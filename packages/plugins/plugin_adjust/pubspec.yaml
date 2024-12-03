@@ -14,8 +14,6 @@ dependencies:
     sdk: flutter
   segment_analytics:
     path: ../../core/
-  json_annotation: ^4.8.0
-  adjust_sdk: ^4.31.0
   json_annotation: ^4.9.0
   adjust_sdk: ^4.38.2
 
